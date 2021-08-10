@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', 'sans-serif';
+}
+.header-bg-color{
+    background-color: #264653;
+}
+button{
+    background-color: #E76F51;
+    width: 168px;
+    height: 44px;
+    border-radius: 5px;
+    color: white;
+}
+.resize{
+    width: 288px;
+    height: 243px;
+}
+.grey-img{
+    -webkit-filter: grayscale(100%);
+}
+span{
+    color: #E76F51;
+} 
+.i-style{
+    color:#E77C40 ;
+    margin: 6px; 
+}
+.unchecked{
+    color: #E77C40;
+    margin: 6px;
+}
